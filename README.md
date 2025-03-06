@@ -60,7 +60,7 @@ RegisterNumber: 212224230137
 */
 ```
 
-```
+``` py
 
 import numpy as np
 import pandas as pd
